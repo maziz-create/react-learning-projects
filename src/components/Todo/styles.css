@@ -1,0 +1,60 @@
+#container {
+    width: 400px;
+    background-color: #dbd4d4;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+ul {
+    margin: 15px;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.liDiv {
+    position: relative;
+}
+
+ul li {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    margin-bottom: 2px;
+}
+
+.button-delete {
+    background-color: transparent;
+    margin-bottom: 2px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.button-complete {
+    background-color: transparent;
+    margin-bottom: 2px;
+    position: absolute;
+    top: 0;
+    right: 56px;
+}
+
+.button-deleteMark {
+    background-color: transparent;
+    margin-bottom: 2px;
+    position: absolute;
+    top: 0;
+    right: 27px;
+}
+
+.completed-todo {
+    text-decoration: line-through;
+    background-color: rgb(184, 63, 63, .2);
+}
