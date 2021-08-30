@@ -1,11 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import { WeatherApiAddressProvider } from './context/WeatherApiAddressContext';
+import WeatherCity from './components/WeatherCity';
 
 function App() {
+
   return (
-    <div className="App">
-      
-    </div>
+    <WeatherApiAddressProvider>
+      <WeatherCity />
+    </WeatherApiAddressProvider>
   );
 }
 
