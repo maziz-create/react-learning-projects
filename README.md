@@ -1,3 +1,9 @@
+# Project 1
+![](views/react-project-1.gif)
+
+# Project 2 
+![](views/react-project-2.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
