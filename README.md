@@ -1,7 +1,7 @@
-# Project 1
+# Project 1 (To do list)
 ![](views/react-project-1.gif)
 
-# Project 2 
+# Project 2 (Current Weather Forecast)
 ![](views/react-project-2.gif)
 
 # Getting Started with Create React App
