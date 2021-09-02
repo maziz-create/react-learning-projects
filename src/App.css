@@ -8,3 +8,11 @@
 li {
   list-style-type: none;
 }
+
+input {
+  width: 400px !important;
+}
+
+.addTodo {
+  height: 30px;
+}

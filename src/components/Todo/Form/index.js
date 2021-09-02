@@ -39,9 +39,11 @@ function Form({ setTodo, todos }) {
                     placeholder="Add To Do"
                     value={form.name}
                     name="name"
+                    id="addInput"
                     onChange={onChangeInput}
                     autoComplete="off"
                 />
+                <button className="addTodo">Ekle</button>
             </div>
         </form>
     )
